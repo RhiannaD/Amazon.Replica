@@ -1,0 +1,133 @@
+
+.body1{
+    display: flex;
+    flex-direction: column;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    margin: 300px;
+    margin-right: 60px;
+    width:35%;
+    border: 1px solid  rgb(245, 240, 240);
+    border-radius: 4px;
+    padding: 5px;
+    
+    
+    
+    
+   
+}
+
+.box1{
+    text-align: center;
+    padding: .5px;
+    
+}
+
+.email_phone{
+    font-size: 11px;
+    inline-size: 80%;
+    align-items: center;
+    margin: 10px;
+    margin-bottom: 2px;
+}
+
+#email{
+    inline-size:75%;
+    align-items: center;
+    margin: 10px
+}
+
+.pass{
+    text-align:right;
+    font-size: 11px;
+    position:absolute;
+    line-height: 30px;
+    inline-size:8%;
+}
+
+
+#password{
+    inline-size: 75%;
+    margin:10px;
+    text-align: left;
+}
+
+.forgot{
+    color: blue;
+    text-align: right ;
+    inline-size: 77%;
+    padding-top: 5px;
+}
+
+
+.continue{
+    font-size: 10px;
+    inline-size: 75%;
+    border: .6px solid gray;
+    background-color:rgb(244, 175, 48);
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+    
+
+    
+}
+
+.help{
+    color: blue;
+}
+
+
+
+
+.new{
+   color: gray;
+   font-size: 13px;
+   text-align: center;
+   position: relative;
+   bottom: 290px;
+   inline-size: 80%;
+   margin-bottom: 10px;
+
+}
+
+.create{
+  background-color: rgb(219, 214, 214);
+  text-align: center;
+  font-size: 11px;
+  padding: 4px;
+  position: relative;
+  left: 320px;
+  bottom:290px;
+  inline-size: 30%;
+  border: .5px solid rgb(176, 172, 172)
+  
+  
+
+}
+
+.line1{
+    position: relative;
+    bottom:390px ;
+    border-bottom: 2px solid #ccc ;
+    padding:5000px;
+    
+    
+    
+    
+}
+
+.space{
+    text-align: center;
+    font-size: 10px;
+    color: blue
+    
+}
+
+
+
+
+footer{
+    text-align: center;
+    font-size: 10px;
+}
